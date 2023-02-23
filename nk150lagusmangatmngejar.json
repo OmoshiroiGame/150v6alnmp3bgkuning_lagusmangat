@@ -1,0 +1,69 @@
+﻿{
+  "Data":
+[
+    {
+        "id": "1",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Manusia Kuat - Tulus",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Manusia%20Kuat%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Kejar Mimpi - Maudy Ayunda",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Kejar%20Mimpi%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Jalan Panjang - Saykoji",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Jalan%20Panjang%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Saya Pasti Bisa - Saykoji Ft Merry Riana",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Saya%20Pasti%20Bisa.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Berani Bermimpi - Naura",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Berani%20Bermimpi%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Meraih Bintang - Via Vallen",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Meraih%20Bintang%20-.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Pasti Bisa Citra Scholastika",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Pasti%20Bisa%20Citra.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "Kejarlah Mimpi | Kumpulan Lagu Semangat Mengejar Cita-cita, Impian dan Harapan",
+        "title": "Takhlukkan Dunia - Noxcy",
+        "image": "file:///android_asset/image/PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/kejar-mimpi/Takhlukkan%20Dunia%20-.ogg"
+    }
+]
+
+}
